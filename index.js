@@ -1,7 +1,6 @@
 var user        = require('./user');
 var request     = require('request');
 var cheerio     = require('cheerio');
-var querystring = require('querystring');
 
 var ETI_BASE_URL = 'https://endoftheinter.net/';
 
