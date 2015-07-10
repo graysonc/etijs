@@ -1,0 +1,27 @@
+{
+  "name": "eti",
+  "version": "0.0.0",
+  "description": "Node ETI utilities",
+  "main": "index.js",
+  "scripts": {
+    "test": "npm test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "http://github.com/graysonc/eti"
+  },
+  "keywords": [
+    "dank",
+    "memes"
+  ],
+  "author": "Grayson Chao",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/graysonc/eti/issues"
+  },
+  "homepage": "https://github.com/graysonc/eti",
+  "dependencies": {
+    "cheerio": "^0.19.0",
+    "request": "^2.58.0"
+  }
+}
